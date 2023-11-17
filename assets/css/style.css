@@ -111,7 +111,7 @@ p {
     text-align: center;
 }
 
-.benefit-cost h7 {
+.benefit-cost {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -194,8 +194,5 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h8 {
     font-size: 20px;
 }
